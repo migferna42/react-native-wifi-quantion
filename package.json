@@ -17,15 +17,15 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blackdeve/react-native-wifi.git"
+    "url": "git+https://github.com/Kirbo92/react-native-wifi.git"
   },
   "peerDependencies": {
     "react-native": ">=0.13"
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/blackdeve/react-native-wifi/issues"
+    "url": "https://github.com/Kirbo92/react-native-wifi/issues"
   },
-  "homepage": "https://github.com/blackdeve/react-native-wifi#readme",
+  "homepage": "https://github.com/Kirbo92/react-native-wifi#readme",
   "license": "ISC"
 }
