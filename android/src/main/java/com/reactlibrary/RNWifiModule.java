@@ -206,7 +206,7 @@ public class RNWifiModule extends ReactContextBaseJavaModule {
 	}
 
 	@ReactMethod
-	public void rememberNetWork(String password, String ssid, String type, Promise promise) {
+	public void rememberNetWork(String ssid, String password, Boolean isWep, String type, Promise promise) {
 		boolean connected = false;
 		connected = remember(password, ssid, type);
 
